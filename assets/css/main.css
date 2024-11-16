@@ -847,7 +847,11 @@ section,
   top: 0;
   width: 130%;
   height: 100%;
+<<<<<<< HEAD
   background: url("../img/Export from Indonesia.png") center top no-repeat;
+=======
+  background: url("../img/backgroundd.png") center top no-repeat;
+>>>>>>> 3ea874b2d9f81e4ccc63065c91ca32a72bb8fbcb
   background-size: cover;
   z-index: 0;
   border-radius: 0 0 50% 50%;
